@@ -1,4 +1,4 @@
-# Veri-Yapıları-ve-Algoritmalar
+# Veri Yapıları ve Algoritmalar
 Insertion Sort Projesi
 # 1- Insertion Sort Aşamaları
 [22,27,16,2,18,6] -> Insertion Sort
